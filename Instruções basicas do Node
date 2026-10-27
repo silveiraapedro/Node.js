@@ -1,0 +1,18 @@
+-- Instalar o Express na sua basse de arquivos 
+npm install express --save
+
+-- Instalar o Nodemon
+npm install nomedom -g
+
+-- Instalar o mysql pra vincular com o banco
+npm install --save mysql2
+
+-- Instalar Handlebars para o template da aplicação
+npm install --save express-handlebars
+
+-- Instalar sequelize
+npm install --save sequelize
+
+npm install --save body-parser
+
+npm install mongoose
