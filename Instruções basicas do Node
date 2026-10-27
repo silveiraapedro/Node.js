@@ -13,6 +13,7 @@ npm install --save express-handlebars
 -- Instalar sequelize
 npm install --save sequelize
 
+-- Instalar Body Parser
 npm install --save body-parser
 
 npm install mongoose
